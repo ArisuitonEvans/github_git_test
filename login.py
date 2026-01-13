@@ -1,3 +1,6 @@
 "def login(username, password):" 
 "    # 登录逻辑" 
 "    return True" 
+"def logout():" 
+"    # 退出登录" 
+"    print('用户已退出')" 
